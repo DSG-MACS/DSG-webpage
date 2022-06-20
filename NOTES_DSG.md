@@ -10,8 +10,8 @@ General discussion items in the DSG group
 #### Revised front page
 
 The Dependable Systems Group (DSG) is a diverse collection of
-colleagues working in a range of areas covering foundations,
-technologies and applications of computer science.
+colleagues working in a range of areas covering foundations, 
+systems and applications of both.
 
 The research aims and objectives of the Dependable Systems Group are
 to improve the reliability and predictability of computer systems
@@ -39,23 +39,23 @@ The seminars of the DSG group are merged with those of the LAIV group and a [sem
 
 #### Google calendar
 
-/drop it from main page/
+_drop it from main page_
 
 #### Activities
 
-/Collect all entries under Past Activities, then setup a new list/
+_Collect all entries under Past Activities, then setup a new list_
 
 #### Posts
 
-/hide this entire section/
+_hide this entire section_
 
 #### Categories
 
-/hide this entire section/
+_hide this entire section_
 
 #### Tabs
 
-/Tabs:/ People | Project | Publications | Seminars | Collaborators 
+_Tabs:_ People | Project | Publications | Seminars | Collaborators 
 
 
 ### Notes and Drafts
@@ -79,16 +79,16 @@ technologies and applications of computer science.
 
 #### Page structure:
 
-/Tabs:/ People | Project | Publications | Seminars | Collaborators 
+_Tabs:_ People | Project | Publications | Seminars | Collaborators 
 
 Text for collaborators should also cover SICSA and SPLI / SPLV with links.
 
 #### Changes Front page:
 
 Taken out some sub-items:
-- probability and statistics;  -> /something related to ML instead?/
-- transformation; -> /droped/
-- disaster analysis and recovery; -> /droped; we don't rely have a track record there (?)/
+- probability and statistics;  -> _something related to ML instead?_
+- transformation; -> _droped_
+- disaster analysis and recovery; -> _droped; we don't rely have a track record there (?)_
 
 #### old text
 
