@@ -1,14 +1,13 @@
- -*- org -*-
 
-* DSG Group
+# DSG Group
 
 General discussion items in the DSG group
 
-** DSG web pages, June 2022
+## DSG web pages, June 2022
 
-*** Page authoring
+### Page authoring
 
-**** Revised front page
+#### Revised front page
 
 The Dependable Systems Group (DSG) is a diverse collection of
 colleagues working in a range of areas covering foundations,
@@ -38,31 +37,31 @@ listed in the section on Collaborators.
 
 The seminars of the DSG group are merged with those of the LAIV group and a [seminar schedule is available here](https://laiv.uk/laiv-seminars/).
 
-**** Google calendar
+#### Google calendar
 
 /drop it from main page/
 
-**** Activities
+#### Activities
 
 /Collect all entries under Past Activities, then setup a new list/
 
-**** Posts
+#### Posts
 
 /hide this entire section/
 
-**** Categories
+#### Categories
 
 /hide this entire section/
 
-**** Tabs
+#### Tabs
 
 /Tabs:/ People | Project | Publications | Seminars | Collaborators 
 
 
-*** Notes and Drafts
+### Notes and Drafts
 
 
-**** James' text
+#### James' text
 
 We are a diverse collection of colleagues working in the related areas
 of programing language theory and practice, formal methods and formal
@@ -71,27 +70,27 @@ proving [insert more as appropriate], united by the aim of developing
 sound, robust methods for the design and implementation of software
 systems.
 
-**** Revised text
+#### Revised text
 
 The Dependable Systems Group (DSG) is a diverse collection of
 colleagues working in a range of areas covering foundations,
 technologies and applications of computer science.
 
 
-**** Page structure:
+#### Page structure:
 
 /Tabs:/ People | Project | Publications | Seminars | Collaborators 
 
 Text for collaborators should also cover SICSA and SPLI / SPLV with links.
 
-**** Changes Front page:
+#### Changes Front page:
 
 Taken out some sub-items:
 - probability and statistics;  -> /something related to ML instead?/
 - transformation; -> /droped/
 - disaster analysis and recovery; -> /droped; we don't rely have a track record there (?)/
 
-**** old text
+#### old text
 
 The research aims and objectives of the Dependable Systems Group are
 to improve the reliability and predictability of computer systems
