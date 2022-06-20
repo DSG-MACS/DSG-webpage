@@ -60,6 +60,12 @@ _Tabs:_ People | Project | Publications | Seminars | Collaborators
 
 ### Notes and Drafts
 
+#### Priorities for changes
+
+1. Front page text and layout (see above)
+2. Update and clean up list of people; cross-link to tab on collaborators
+3. Move activities to "Past Activities" (for now)
+
 
 #### James' text
 
