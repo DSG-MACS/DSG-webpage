@@ -5,7 +5,7 @@ General discussion items in the DSG group
 
 ## DSG web pages, June/July 2022
 
-### Page authoring
+### Core information
 
 #### Revised front page
 
@@ -40,7 +40,7 @@ The seminars of the DSG group are merged with those of the LAIV group and a [sem
 #### Grouped topics
 
 Topics:
-- __artificial intelligience__: verification, high-performance machine learning
+- __artificial intelligence__: verification, high-performance machine learning
 - __functional programming__: foundations ((dependent) type systems, static analysis, semantics, lambda calculus), implementation (parallel and in-hardware implementations), applications (symbolic computation)
 - __automated reasoning__: interactive theorem proving, metatheory of programming languages 
 - __networking__: mobile adhoc networks (MANETs), software-defined networking (SDN) 
