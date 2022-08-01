@@ -37,6 +37,8 @@ listed on the DSG pages in the section on Collaborators.
 
 The seminars of the DSG group are merged with those of the LAIV group and a [seminar schedule is available here](https://laiv.uk/laiv-seminars/).
 
+_Links to main DSG and LAIV pages to be added here_
+
 #### Grouped topics
 
 Topics:
