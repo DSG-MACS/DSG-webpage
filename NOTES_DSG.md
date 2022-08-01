@@ -3,7 +3,7 @@
 
 General discussion items in the DSG group
 
-## DSG web pages, June 2022
+## DSG web pages, June/July 2022
 
 ### Page authoring
 
@@ -22,7 +22,7 @@ Systems research is considered as spanning the following three layers:
 - Foundations: logic; discrete mathematics; computability; algorithmic analysis and complexity.  
 - Technologies: specification oriented prototyping; performance modeling; simulation;
    formal verification; empirical verification and validation; automated reasoning; refinement and synthesis.  
-- Applications: safety critical system; secure systems; fault tolerant systems;
+- Applications: artificial intelligence; safety critical systems; secure systems; fault tolerant systems;
    performance optimisation; multi process/processor systems; hybrid/embedded systems; predictable systems.  
 
 We are part of the [Scottish Informatics and Computer Science Alliance
@@ -30,12 +30,102 @@ We are part of the [Scottish Informatics and Computer Science Alliance
 Scotland and also provides an enriched research environment for all
 staff and students.
 
-We are part of the emerging Scottish Programming Languages Institute (SPLI).
+We are part of the Scottish Programming Languages Institute (SPLI).
 
 We have strong links to other Scottish universities and these are
-listed in the section on Collaborators.
+listed on the DSG pages in the section on Collaborators.
 
 The seminars of the DSG group are merged with those of the LAIV group and a [seminar schedule is available here](https://laiv.uk/laiv-seminars/).
+
+#### Grouped topics
+
+Topics:
+- __artificial intelligience__: verification, high-performance machine learning
+- __functional programming__: foundations ((dependent) type systems, static analysis, semantics, lambda calculus), implementation (parallel and in-hardware implementations), applications (symbolic computation)
+- __automated reasoning__: interactive theorem proving, metatheory of programming languages 
+- __networking__: mobile adhoc networks (MANETs), software-defined networking (SDN) 
+
+#### DSG members (alphabetically; academics)
+
+_this list covers only academics with permanent contract, as shown on the MACS pages, as stable info for the front-page; do we need this list on the front page or keep it only on the DSG pages?_
+
+- Marko Doko
+- Jamie Gabbay 
+- Lilia Georgieva
+- Jurriaan Hage
+- Idris Skloul Ibrahim
+- Andrew Ireland
+- Ekaterina Komendantskaya
+- Hans-Wolfgang Loidl
+- James McKinna 
+- Adam Sampson
+- Filip Sieczkowski 
+- Kathrin Stark
+- Robert James Stewart
+- Yun Wu 
+
+
+### NOTES and COMMENTS on pages and authoring
+
+#### List of topics as sent by email
+
+- type systems
+- type error diagnosis
+- static analysis of functional languages
+ - Mobile Adhoc network  (MANETs)
+- Software-Defined Networking (SDN)
+- Cloud Computing
+- Hardware implementation of high level languages
+- Programmable hardware for signal/image processing
+- Parallel functional programming design and implementation
+- Interactive theorem proving
+- (Mechanised) metatheory of programming languages
+- Metaprogramming
+- functional programming with advanced type systems, especially dependently-typed functional programming
+- interactive theorem proving, formalised mathematics
+- lambda calculus, type theory, mathematical logic 
+
+#### by person
+
+JH:
+- type systems
+- type error diagnosis
+- static analysis of functional languages
+II:
+- Mobile Adhoc network  (MANETs)
+- Software-Defined Networking (SDN)
+- Cloud Computing
+RJS:
+- Hardware implementation of high level languages
+- Programmable hardware for signal/image processing
+- Parallel functional programming design and implementation
+KS:
+- Interactive theorem proving
+- (Mechanised) metatheory of programming languages
+- Metaprogramming
+JM:
+- functional programming with advanced type systems, especially dependently-typed functional programming
+- interactive theorem proving, formalised mathematics
+- lambda calculus, type theory, mathematical logic 
+
+#### SAMPLE Activity: Parallel Functional Programming
+
+
+Parallel Functional Programming
+
+We aim to realise productivity and reliability benefits by developing
+high-level, parallel and distributed coordination abstractions and
+language extensions, which must be supported by effective
+implementations, have simple semantics and be amenable to
+reasoning. We are:
+
+. designing and evaluating new high-level coordination models in order to exploit emerging architectures, and new models of computation
+. developing analyses of high-level parallel and distributed languages to better support coordination
+. encouraging adoption of new high-level coordination models via long term relationships with user communities, e.g. GAP, Maplesoft, Kant, Mupad
+
+People: Hans-Wolfgang Loidl, Rob Stewart
+
+
 
 #### Google calendar
 
@@ -58,14 +148,14 @@ _hide this entire section_
 _Tabs:_ People | Project | Publications | Seminars | Collaborators 
 
 
-### Notes and Drafts
+### OLD NOTES and DRAFTS
 
 #### Priorities for changes
 
 1. Front page text and layout (see above)
 2. Update and clean up list of people; cross-link to tab on collaborators
 3. Move activities to "Past Activities" (for now)
-
+4. Collect entries for new "Activities" list, using the "Parallel Functional Programming" activity as template/sample
 
 #### James' text
 
