@@ -49,7 +49,7 @@ Topics:
 
 #### DSG members (alphabetically; academics)
 
-_this list covers only academics with permanent contract, as shown on the MACS pages, as stable info for the front-page; do we need this list on the front page or keep it only on the DSG pages?_
+_this list covers only academics, as shown on the MACS pages, as stable info for the front-page; do we need this list on the front page or keep it only on the DSG pages?_
 
 - Marko Doko
 - Jamie Gabbay 
