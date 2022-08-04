@@ -44,7 +44,7 @@ _Links to main DSG and LAIV pages to be added here_
 Topics:
 - __artificial intelligence__: verification, high-performance machine learning
 - __functional programming__: foundations ((dependent) type systems, static analysis, semantics, lambda calculus), implementation (parallel and in-hardware implementations), applications (symbolic computation)
-- __automated reasoning__: interactive theorem proving, metatheory of programming languages 
+- __automated reasoning__: formal methods, interactive theorem proving, metatheory of programming languages 
 - __networking__: mobile adhoc networks (MANETs), software-defined networking (SDN) 
 
 #### DSG members (alphabetically; academics)
@@ -59,11 +59,12 @@ _this list covers only academics, as shown on the MACS pages, as stable info for
 - Andrew Ireland
 - Ekaterina Komendantskaya
 - Hans-Wolfgang Loidl
-- James McKinna 
+- James McKinna
+- Muhammad Najib
 - Adam Sampson
 - Filip Sieczkowski 
 - Kathrin Stark
-- Robert James Stewart
+- Rob Stewart
 - Yun Wu 
 
 
@@ -86,6 +87,9 @@ _this list covers only academics, as shown on the MACS pages, as stable info for
 - functional programming with advanced type systems, especially dependently-typed functional programming
 - interactive theorem proving, formalised mathematics
 - lambda calculus, type theory, mathematical logic 
+- automated reasoning
+- formal methods
+- high-integrity software-intensive systems
 
 #### by person
 
@@ -109,6 +113,11 @@ JM:
 - functional programming with advanced type systems, especially dependently-typed functional programming
 - interactive theorem proving, formalised mathematics
 - lambda calculus, type theory, mathematical logic 
+AIR:
+- automated reasoning
+- formal methods
+- high-integrity software-intensive systems
+
 
 #### SAMPLE Activity: Parallel Functional Programming
 
