@@ -2,6 +2,27 @@
 
 General discussion items in the DSG group
 
+## Webpage setup instruction 
+1. Clone the current git repo 
+```
+git clone git@gitlab-student.macs.hw.ac.uk:dsg/dsg-discussion.git
+```
+
+2. Enter the webpage directory 
+```
+cd webpage/
+```
+
+3. To run the webpage make sure the following dependencies are installed.   
+   - [hugo](https://gohugo.io/installation/)
+   ```
+   // ensure the hugo command line is assesible 
+   hugo -h
+   ```
+4. Start the server in debug mode 
+   ```
+   hugo serve
+   ```
 <!-- ## Getting started
 
 To make it easy for you to get started with GitLab, here's a list of recommended next steps.
