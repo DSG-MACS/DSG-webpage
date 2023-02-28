@@ -3,26 +3,65 @@
 General discussion items in the DSG group
 
 ## Webpage setup instruction 
-1. Clone the current git repo 
+1. ### Clone the current git repo 
 ```
 git clone git@gitlab-student.macs.hw.ac.uk:dsg/dsg-discussion.git
 ```
 
-2. Enter the webpage directory 
+2. ### Enter the webpage directory 
 ```
 cd webpage/
 ```
 
-3. To run the webpage make sure the following dependencies are installed.   
+3. ### To run the webpage make sure the following dependencies are installed.   
    - [hugo](https://gohugo.io/installation/)
    ```
    // ensure the hugo command line is assesible 
    hugo -h
    ```
-4. Start the server in debug mode 
+4. ### Start the server in debug mode 
    ```
    hugo serve
    ```
+
+## Contribute content guidelines 
+1. enter the appropriate directory 
+```
+// create a new branch from the current main branch
+// this is because the main branch is in a protected 
+// view
+git checkout -b <branch name>
+
+// enter the apprpirate directory
+cd webpage/content
+```
+2. The entire content section is markdown files 
+- To add a new project 
+ ```
+ // current path (webpage/content/projects)
+ cd projects/
+ ```
+- Create a markdown file ```.md file``` with the project name 
+ ```
+ touch <project name>.md
+ ```
+- Edit the following file created with the following boiler plate 
+```
+---
+title: <title>
+draft: false
+description: <description>
+tags: ["<tag relvant>",...n ]
+showDateUpdated: true
+---
+
+<your mark down content>
+```
+- preview your file 
+```
+// start the debug server
+hugo serve
+```
 <!-- ## Getting started
 
 To make it easy for you to get started with GitLab, here's a list of recommended next steps.
