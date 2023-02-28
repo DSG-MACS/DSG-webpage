@@ -25,7 +25,7 @@ cd webpage/
    ```
 
 ## Contribute content guidelines 
-1. enter the appropriate directory 
+1. ## enter the appropriate directory 
 ```
 // create a new branch from the current main branch
 // this is because the main branch is in a protected 
@@ -35,7 +35,7 @@ git checkout -b <branch name>
 // enter the apprpirate directory
 cd webpage/content
 ```
-2. The entire content section is markdown files 
+2. ## The entire content section is markdown files 
 - To add a new project 
  ```
  // current path (webpage/content/projects)
@@ -57,7 +57,7 @@ showDateUpdated: true
 
 <your mark down content>
 ```
-- preview your file 
+- preview your changes
 ```
 // start the debug server
 hugo serve
