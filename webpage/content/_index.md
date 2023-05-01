@@ -24,7 +24,7 @@ Systems research is considered as spanning the following three layers:
    specification oriented prototyping; performance modeling; simulation;
    formal verification; empirical verification and validation; automated reasoning; refinement and synthesis.  
 - #### Applications: 
-   safety critical system; secure systems; fault tolerant systems;
+   artificial intelligence; safety critical system; secure systems; fault tolerant systems;
    performance optimisation; multi process/processor systems; hybrid/embedded systems; predictable systems.  
 
 We are part of the [Scottish Informatics and Computer Science Alliance
