@@ -24,6 +24,29 @@ cd webpage/
    hugo serve
    ```
 
+## Windows installation
+https://www.youtube.com/watch?v=G7umPCU-8xc
+## Mac installation 
+https://www.youtube.com/watch?v=WvhCGlLcrF8
+## Linux installation
+```
+// Arch
+sudo pacman -S hugo
+// Debian
+sudo apt install hugo
+// Fedora
+sudo dnf install hugo
+// OpenSuse 
+sudo zypper install hugo
+// Solus
+sudo eopkg install hugo
+```
+
+## Docker 
+```
+docker pull klakegg/hugo
+```
+
 ## Contribute content guidelines 
 1. ## enter the appropriate directory 
 ```
