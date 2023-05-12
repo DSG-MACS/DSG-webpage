@@ -9,6 +9,12 @@ showDateUpdated: true
 
 ## Platform Grant Investigators
 
+<h1 align="center">
+  <br>
+  <a href=""><img src="https://raw.githubusercontent.com/Akilan1999/p2p-rendering-computation/master/Docs/images/p2prclogo.png" alt="p2prc" width="400"></a>
+  <br>
+</h1>
+
 - Andrew Ireland (Heriot-Watt University) [ Principal Investigator ]
 - David Aspinall (University of Edinburgh)
 - Alan Bundy (University of Edinburgh)

@@ -30,6 +30,11 @@
   pageRef = "Publications"
   weight = 10  
 
+[[main]]
+  name = "Topics"
+  pageRef = "Topics"
+  weight = 10 
+
 # [[main]]
 #   name = "Categories"
 #   pageRef = "categories"
