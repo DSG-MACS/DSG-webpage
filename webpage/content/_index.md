@@ -32,7 +32,7 @@ We are part of the [Scottish Informatics and Computer Science Alliance
 Scotland and also provides an enriched research environment for all
 staff and students.
 
-We are part of the emerging Scottish Programming Languages Institute (SPLI).
+We are part of the emerging [Scottish Programming Languages Institute (SPLI)](https://scottish-pl-institute.github.io/).
 
 We have strong links to other Scottish universities and these are
 listed in the section on Collaborators.
