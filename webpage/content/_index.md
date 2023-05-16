@@ -35,10 +35,13 @@ staff and students.
 We are part of the emerging [Scottish Programming Languages Institute (SPLI)](https://scottish-pl-institute.github.io/).
 
 We have strong links to other Scottish universities and these are
-listed in the section on Collaborators.
+listed in the section on [Collaborators](collaborations).
 
 The seminars of the DSG group are merged with those of the LAIV group and a [seminar schedule is available here](https://laiv.uk/laiv-seminars/).
 
+ 
+<!-- ![DSG Logo](dsg_logo.png ) -->
 
-<!-- 
-![A stylised photograph of a purple squid on a pink backdrop.](squid.jpg "Photo by [Jippe Joosten](https://unsplash.com/@jippe_joosten?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/vibrant-purple?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).") -->
+ 
+![A stylised photograph of a purple squid on a pink backdrop.](squid.jpg "Photo by [Jippe Joosten](https://unsplash.com/@jippe_joosten?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/vibrant-purple?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).") 
+

@@ -16,24 +16,24 @@
   weight = 10
 
 [[main]]
-  name = "Collaborators"
-  pageRef = "Collaborations"
-  weight = 10
+  name = "Topics"
+  pageRef = "Topics"
+  weight = 20 
 
 [[main]]
   name = "Projects"
   pageRef = "projects"
-  weight = 10  
+  weight = 30  
 
 [[main]]
   name = "Publications"
   pageRef = "Publications"
-  weight = 10  
+  weight = 40  
 
 [[main]]
-  name = "Topics"
-  pageRef = "Topics"
-  weight = 10 
+  name = "Collaborators"
+  pageRef = "Collaborations"
+  weight = 50
 
 # [[main]]
 #   name = "Categories"
