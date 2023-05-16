@@ -2,7 +2,90 @@
 
 General discussion items in the DSG group
 
-## Getting started
+## Webpage setup instruction 
+1. ### Clone the current git repo 
+```
+git clone git@gitlab-student.macs.hw.ac.uk:dsg/dsg-discussion.git
+```
+
+2. ### Enter the webpage directory 
+```
+cd webpage/
+```
+
+3. ### To run the webpage make sure the following dependencies are installed.   
+   - [hugo](https://gohugo.io/installation/)
+   ```
+   // ensure the hugo command line is assesible 
+   hugo -h
+   ```
+4. ### Start the server in debug mode 
+   ```
+   hugo serve
+   ```
+
+## Windows installation
+https://www.youtube.com/watch?v=G7umPCU-8xc
+## Mac installation 
+https://www.youtube.com/watch?v=WvhCGlLcrF8
+## Linux installation
+```
+// Arch
+sudo pacman -S hugo
+// Debian
+sudo apt install hugo
+// Fedora
+sudo dnf install hugo
+// OpenSuse 
+sudo zypper install hugo
+// Solus
+sudo eopkg install hugo
+```
+
+## Docker 
+```
+docker pull klakegg/hugo
+```
+
+## Contribute content guidelines 
+1. ## enter the appropriate directory 
+```
+// create a new branch from the current main branch
+// this is because the main branch is in a protected 
+// view
+git checkout -b <branch name>
+
+// enter the apprpirate directory
+cd webpage/content
+```
+2. ## The entire content section is markdown files 
+- To add a new project 
+ ```
+ // current path (webpage/content/projects)
+ cd projects/
+ ```
+- Create a markdown file ```.md file``` with the project name 
+ ```
+ touch <project name>.md
+ ```
+- Edit the following file created with the following boiler plate 
+```
+---
+title: <title>
+draft: false
+description: <description>
+tags: ["<tag relvant>",...n ]
+showDateUpdated: true
+---
+
+<your mark down content>
+```
+- preview your changes
+```
+// start the debug server
+hugo serve
+```
+<!-- ## Getting started
 
 To make it easy for you to get started with GitLab, here's a list of recommended next steps.
 
@@ -89,4 +172,4 @@ Show your appreciation to those who have contributed to the project.
 For open source projects, say how it is licensed.
 
 ## Project status
-If you have run out of energy or time for your project, put a note at the top of the README saying that development has slowed down or stopped completely. Someone may choose to fork your project or volunteer to step in as a maintainer or owner, allowing your project to keep going. You can also make an explicit request for maintainers.
+If you have run out of energy or time for your project, put a note at the top of the README saying that development has slowed down or stopped completely. Someone may choose to fork your project or volunteer to step in as a maintainer or owner, allowing your project to keep going. You can also make an explicit request for maintainers. -->
