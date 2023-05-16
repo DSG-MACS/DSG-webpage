@@ -6,6 +6,6 @@ cascade:
   showDate: false
   showAuthor: false
 ---
-- [./par_fctal_prg]
+- [./par_fctal_prg](Parallel Functional Programming)
 <!-- use --- to show index of files below this line -->
 ---
