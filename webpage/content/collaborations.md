@@ -10,6 +10,7 @@ showReadingTime: false
 showEdit: false
 ---
 
+
 <h2>Groups</h2>
 <li> <a href="http://www.dcs.gla.ac.uk/research/gpg/">Glasgow Parallelism Group at the University of Glasgow</a>
 </li><li> <a href="http://www-fp.cs.st-andrews.ac.uk/index.shtml">Functional Programming Group at the University of St Andrews</a>
