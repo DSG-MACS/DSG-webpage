@@ -6,5 +6,3 @@ cascade:
   showDate: false
   showAuthor: false
 ---
-- [./par_fctal_prg]
----

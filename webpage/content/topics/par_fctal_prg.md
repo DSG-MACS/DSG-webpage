@@ -1,7 +1,7 @@
 ---
 title: "Parallel Functional Programming"
 date: 2023-05-01T16:29:39+01:00
-draft: true
+draft: false
 description: ""
 ---
 We aim to realise productivity and reliability benefits by developing high-level, parallel and distributed coordination abstractions and language extensions, which must be supported by effective implementations, have simple semantics and be amenable to reasoning. We are:
