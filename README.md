@@ -1,5 +1,7 @@
 # DSG-discussion
 
+[![setup process](https://img.youtube.com/vi/JZ4qxSYsIGo/0.jpg)](https://www.youtube.com/watch?v=JZ4qxSYsIGo)
+
 General discussion items in the DSG group
 
 ## Webpage setup instruction 
