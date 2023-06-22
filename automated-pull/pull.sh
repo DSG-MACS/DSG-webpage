@@ -1,9 +1,10 @@
 cd ..
+
 do
 	sleep 5
         git pull origin DSG-webpage
         cd webpage/
-        hugo 
+        hugo
         cd ..
         echo "Press [CTRL+C] to stop.."
 done
