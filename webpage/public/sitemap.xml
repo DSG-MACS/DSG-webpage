@@ -5,7 +5,14 @@
     
       <url>
             <loc>/</loc>
-            <lastmod>2023-05-01T16:28:39+01:00</lastmod>
+            <lastmod>2023-05-01T16:29:39+01:00</lastmod>
+          </url>
+    
+  
+    
+      <url>
+            <loc>/topics/par_fctal_prg/</loc>
+            <lastmod>2023-05-01T16:29:39+01:00</lastmod>
           </url>
     
   
@@ -21,6 +28,8 @@
             <loc>/users/</loc>
             <lastmod>2020-08-14T00:00:00+00:00</lastmod>
           </url>
+    
+  
     
   
     
@@ -51,6 +60,18 @@
   
     
       <url>
+            <loc>/topics/template/</loc>
+          </url>
+    
+  
+    
+      <url>
+            <loc>/topics/test/</loc>
+          </url>
+    
+  
+    
+      <url>
             <loc>/projects/coalgebraic-logic-programming-structural-resolution-type-class-resolution./</loc>
           </url>
     
@@ -69,6 +90,8 @@
       <url>
             <loc>/publicatons/</loc>
           </url>
+    
+  
     
   
     
