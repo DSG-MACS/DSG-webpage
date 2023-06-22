@@ -1,4 +1,5 @@
 cd ..
+while :
 do
 	sleep 5
         git pull origin DSG-webpage
