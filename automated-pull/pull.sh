@@ -2,7 +2,7 @@ cd ..
 while :
 do
 	sleep 5
-        git pull origin DSG-webpage
+        git pull origin main
         cd webpage/
         hugo 
         cp -a public/ /var/www/html/
