@@ -37,7 +37,7 @@ We are part of the emerging [Scottish Programming Languages Institute (SPLI)](ht
 We have strong links to other Scottish universities and these are
 listed in the section on [Collaborators](collaborations).
 
-The seminars of the DSG group are merged with those of the LAIV group and a [seminar schedule is available here](https://laiv.uk/laiv-seminars/).
+The seminars of the DSG group are merged with those of the [LAIV group](http://laiv.uk/) and a [seminar schedule is available here](https://laiv.uk/laiv-seminars/).
 
  
 ![DSG Logo](header_dsg.png) 
