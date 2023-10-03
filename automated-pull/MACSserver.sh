@@ -1,4 +1,5 @@
 cd ..
+export PATH=/home/as251:${PATH}
 while :
 do
 	sleep 5
