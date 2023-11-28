@@ -7,7 +7,7 @@ General discussion items in the DSG group
 ## Webpage setup instruction 
 1. ### Clone the current git repo 
 ```
-git clone git@gitlab-student.macs.hw.ac.uk:dsg/dsg-discussion.git
+git clone git@gitlab-student.macs.hw.ac.uk:as251/dsg-webpages.git
 ```
 
 2. ### Enter the webpage directory 
