@@ -5,7 +5,9 @@ do
 	sleep 5
         git pull gitlab-fix main
         cd webpage/
-        hugo 
+        hugo
+        chmod o+r public/
+        chmod o+r public/* 
         rsync -a public/ /home/dsg/www/public
         echo "Press [CTRL+C] to stop.."
         cd ..
