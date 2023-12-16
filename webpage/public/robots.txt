@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: sitemap.xml
+Sitemap: https://www.macs.hw.ac.uk/~as251/public/sitemap.xml

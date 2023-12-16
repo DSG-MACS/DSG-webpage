@@ -2,16 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>test on DSG</title>
-    <link>/tags/test/</link>
+    <link>https://www.macs.hw.ac.uk/~as251/public/tags/test/</link>
     <description>Recent content in test on DSG</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="/tags/test/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://www.macs.hw.ac.uk/~as251/public/tags/test/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>intro to test</title>
-      <link>/topics/test/</link>
+      <link>https://www.macs.hw.ac.uk/~as251/public/topics/test/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/topics/test/</guid>
+      <guid>https://www.macs.hw.ac.uk/~as251/public/topics/test/</guid>
       <description>Random content # Oh, Haskell, the language of mythical creatures and whimsical code!</description>
     </item>
     

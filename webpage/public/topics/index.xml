@@ -2,44 +2,43 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Topics on DSG</title>
-    <link>/topics/</link>
+    <link>https://www.macs.hw.ac.uk/~as251/public/topics/</link>
     <description>Recent content in Topics on DSG</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Mon, 01 May 2023 16:28:39 +0100</lastBuildDate><atom:link href="/topics/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 May 2023 16:28:39 +0100</lastBuildDate><atom:link href="https://www.macs.hw.ac.uk/~as251/public/topics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Parallel Functional Programming</title>
-      <link>/topics/par_fctal_prg/</link>
+      <link>https://www.macs.hw.ac.uk/~as251/public/topics/par_fctal_prg/</link>
       <pubDate>Mon, 01 May 2023 16:29:39 +0100</pubDate>
       
-      <guid>/topics/par_fctal_prg/</guid>
+      <guid>https://www.macs.hw.ac.uk/~as251/public/topics/par_fctal_prg/</guid>
       <description>We aim to realise productivity and reliability benefits by developing high-level, parallel and distributed coordination abstractions and language extensions, which must be supported by effective implementations, have simple semantics and be amenable to reasoning.</description>
     </item>
     
     <item>
       <title>&lt;title&gt;</title>
-      <link>/topics/template_min/</link>
+      <link>https://www.macs.hw.ac.uk/~as251/public/topics/template_min/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/topics/template_min/</guid>
-      <description> </description>
+      <guid>https://www.macs.hw.ac.uk/~as251/public/topics/template_min/</guid>
+      <description>&#34; </description>
     </item>
     
     <item>
       <title>Intro to Haskell</title>
-      <link>/topics/template/</link>
+      <link>https://www.macs.hw.ac.uk/~as251/public/topics/template/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/topics/template/</guid>
+      <guid>https://www.macs.hw.ac.uk/~as251/public/topics/template/</guid>
       <description>Oh, Haskell, the language of mythical creatures and whimsical code!</description>
     </item>
     
     <item>
       <title>intro to test</title>
-      <link>/topics/test/</link>
+      <link>https://www.macs.hw.ac.uk/~as251/public/topics/test/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/topics/test/</guid>
+      <guid>https://www.macs.hw.ac.uk/~as251/public/topics/test/</guid>
       <description>Random content # Oh, Haskell, the language of mythical creatures and whimsical code!</description>
     </item>
     
