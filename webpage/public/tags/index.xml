@@ -2,91 +2,74 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on DSG</title>
-    <link>/tags/</link>
+    <link>https://www.macs.hw.ac.uk/~as251/public/tags/</link>
     <description>Recent content in Tags on DSG</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 27 Jun 2023 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 27 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.macs.hw.ac.uk/~as251/public/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>users</title>
-      <link>/tags/users/</link>
+      <link>https://www.macs.hw.ac.uk/~as251/public/tags/users/</link>
       <pubDate>Tue, 27 Jun 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/users/</guid>
+      <guid>https://www.macs.hw.ac.uk/~as251/public/tags/users/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>...n</title>
-      <link>/tags/...n/</link>
+      <link>https://www.macs.hw.ac.uk/~as251/public/tags/...n/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/...n/</guid>
+      <guid>https://www.macs.hw.ac.uk/~as251/public/tags/...n/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>&lt;tag relvant&gt;</title>
-      <link>/tags/tag-relvant/</link>
+      <link>https://www.macs.hw.ac.uk/~as251/public/tags/tag-relvant/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/tag-relvant/</guid>
+      <guid>https://www.macs.hw.ac.uk/~as251/public/tags/tag-relvant/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>123</title>
-      <link>/tags/123/</link>
+      <link>https://www.macs.hw.ac.uk/~as251/public/tags/123/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/123/</guid>
+      <guid>https://www.macs.hw.ac.uk/~as251/public/tags/123/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Collaborations</title>
-      <link>/tags/collaborations/</link>
+      <link>https://www.macs.hw.ac.uk/~as251/public/tags/collaborations/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/collaborations/</guid>
+      <guid>https://www.macs.hw.ac.uk/~as251/public/tags/collaborations/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Long Term Research</title>
-      <link>/tags/long-term-research/</link>
+      <link>https://www.macs.hw.ac.uk/~as251/public/tags/long-term-research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/long-term-research/</guid>
+      <guid>https://www.macs.hw.ac.uk/~as251/public/tags/long-term-research/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Publicatons</title>
-      <link>/tags/publicatons/</link>
+      <link>https://www.macs.hw.ac.uk/~as251/public/tags/publicatons/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/publicatons/</guid>
+      <guid>https://www.macs.hw.ac.uk/~as251/public/tags/publicatons/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>Recently Completed Projects</title>
-      <link>/tags/recently-completed-projects/</link>
+      <link>https://www.macs.hw.ac.uk/~as251/public/tags/recently-completed-projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/recently-completed-projects/</guid>
+      <guid>https://www.macs.hw.ac.uk/~as251/public/tags/recently-completed-projects/</guid>
       <description></description>
     </item>
-    
     <item>
       <title>test</title>
-      <link>/tags/test/</link>
+      <link>https://www.macs.hw.ac.uk/~as251/public/tags/test/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/test/</guid>
+      <guid>https://www.macs.hw.ac.uk/~as251/public/tags/test/</guid>
       <description></description>
     </item>
-    
   </channel>
 </rss>
