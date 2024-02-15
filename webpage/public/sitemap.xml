@@ -4,14 +4,14 @@
   
     
       <url>
-            <loc>/</loc>
+            <loc>https://www.macs.hw.ac.uk/~as251/public/</loc>
             <lastmod>2023-06-27T00:00:00+00:00</lastmod>
           </url>
     
   
     
       <url>
-            <loc>/users/</loc>
+            <loc>https://www.macs.hw.ac.uk/~as251/public/users/</loc>
             <lastmod>2023-06-27T00:00:00+00:00</lastmod>
           </url>
     
@@ -22,14 +22,14 @@
   
     
       <url>
-            <loc>/topics/par_fctal_prg/</loc>
+            <loc>https://www.macs.hw.ac.uk/~as251/public/topics/par_fctal_prg/</loc>
             <lastmod>2023-05-01T16:29:39+01:00</lastmod>
           </url>
     
   
     
       <url>
-            <loc>/topics/</loc>
+            <loc>https://www.macs.hw.ac.uk/~as251/public/topics/</loc>
             <lastmod>2023-05-01T16:28:39+01:00</lastmod>
           </url>
     
@@ -40,7 +40,7 @@
   
     
       <url>
-            <loc>/topics/template_min/</loc>
+            <loc>https://www.macs.hw.ac.uk/~as251/public/topics/template_min/</loc>
           </url>
     
   
@@ -50,39 +50,13 @@
   
     
       <url>
-            <loc>/projects/coalgebraic-logic-programming-structural-resolution-type-class-resolution./</loc>
+            <loc>https://www.macs.hw.ac.uk/~as251/public/projects/coalgebraic-logic-programming-structural-resolution-type-class-resolution./</loc>
           </url>
     
   
     
       <url>
-            <loc>/projects/coalgebraic-logic-programming-structural-resolution-type-class-resolution./</loc>
-          </url>
-    
-  
-    
-  
-    
-      <url>
-            <loc>/collaborations/</loc>
-          </url>
-    
-  
-    
-      <url>
-            <loc>/topics/template/</loc>
-          </url>
-    
-  
-    
-      <url>
-            <loc>/topics/test/</loc>
-          </url>
-    
-  
-    
-      <url>
-            <loc>/projects/coalgebraic-logic-programming-structural-resolution-type-class-resolution./</loc>
+            <loc>https://www.macs.hw.ac.uk/~as251/public/projects/coalgebraic-logic-programming-structural-resolution-type-class-resolution./</loc>
           </url>
     
   
@@ -90,7 +64,25 @@
   
     
       <url>
-            <loc>/projects/</loc>
+            <loc>https://www.macs.hw.ac.uk/~as251/public/collaborations/</loc>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://www.macs.hw.ac.uk/~as251/public/topics/template/</loc>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://www.macs.hw.ac.uk/~as251/public/topics/test/</loc>
+          </url>
+    
+  
+    
+      <url>
+            <loc>https://www.macs.hw.ac.uk/~as251/public/projects/coalgebraic-logic-programming-structural-resolution-type-class-resolution./</loc>
           </url>
     
   
@@ -98,7 +90,15 @@
   
     
       <url>
-            <loc>/publicatons/</loc>
+            <loc>https://www.macs.hw.ac.uk/~as251/public/projects/</loc>
+          </url>
+    
+  
+    
+  
+    
+      <url>
+            <loc>https://www.macs.hw.ac.uk/~as251/public/publicatons/</loc>
           </url>
     
   
@@ -108,7 +108,7 @@
   
     
       <url>
-            <loc>/projects/project1/</loc>
+            <loc>https://www.macs.hw.ac.uk/~as251/public/projects/project1/</loc>
           </url>
     
   

@@ -1,12 +1,13 @@
 cd ..
-export PATH=/home/as251:${PATH}
+export PATH=/home/dsg:${PATH}
 while :
 do
 	sleep 5
-        git pull origin main
+        git pull dsg-new-test main
         cd webpage/
         hugo 
-        rsync -a public/ /home/as251/www/public
+        rsync -a public/ /home/dsg/www/public
         echo "Press [CTRL+C] to stop.."
         cd ..
+        git push github-publickey main
 done
