@@ -16,8 +16,8 @@
   weight = 10
 
 [[main]]
-  name = "Topics"
-  pageRef = "Topics"
+  name = "Research areas"
+  pageRef = "ResearchAreas"
   weight = 20 
 
 [[main]]
