@@ -42,6 +42,8 @@ The seminars of the DSG group are merged with those of the [LAIV group](http://l
  
 ![DSG Logo](header_dsg.png) 
 
- 
-<!-- ![A stylised photograph of a purple squid on a pink backdrop.](squid.jpg "Photo by [Jippe Joosten](https://unsplash.com/@jippe_joosten?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/vibrant-purple?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).")  -->
+<!--
+Version 2 of a __testing text__:
 
+![A stylised photograph of a purple squid on a pink backdrop.](squid.jpg "Photo by [Jippe Joosten](https://unsplash.com/@jippe_joosten?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText) on [Unsplash](https://unsplash.com/s/photos/vibrant-purple?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText).")
+-->
