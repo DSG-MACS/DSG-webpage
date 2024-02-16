@@ -25,3 +25,4 @@ dependently-typed functional programming
 - Automated reasoning
 - Formal methods
 - High-integrity software-intensive systems
+- Added test entry
