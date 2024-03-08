@@ -25,7 +25,7 @@ Academic DSG members (in alphabetic order):
 | Idris Skloul Ibrahim                                                   | I.S.Ibrahim@hw.ac.uk      |       |       | Academic                                  |
 | Andrew Ireland                                                         | A.Ireland@hw.ac.uk        |       |       | Academic                                  |
 | Ekaterina Komendantskaya                                               | E.Komendantskaya@hw.ac.uk |       |       | Academic                                  |
-| [Hans-Wolfgang Loidl](http://www.macs.hw.ac.uk/~hwloidl)               | H.W.Loidl@hw.ac.uk        | 3421  |  <!-- <img style="float: right; height:5rem" src="HLoidl_200x200.png"> --> | Academic                                  |
+| [Hans-Wolfgang Loidl](http://www.macs.hw.ac.uk/~hwloidl)               | H.W.Loidl@hw.ac.uk        |   |  <!-- <img style="float: right; height:5rem" src="HLoidl_200x200.png"> --> | Academic                                  |
 | James McKinna                                                          | J.McKinna@hw.ac.uk        |       |       | Academic                                  |
 | Muhammad Najib                                                         | M.Najib@hw.ac.uk          |       |       | Academic                                  |
 | Adam Sampson                                                           | A.Sampson@hw.ac.uk        |       |       | Academic                                  |
