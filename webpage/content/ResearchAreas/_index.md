@@ -6,6 +6,8 @@ cascade:
   showAuthor: false
 ---
 
+- [Cyber Security](/~dsg/public/researchareas/cybersecurity/)
+- [Networking, IoT, and Their Applications](/~dsg/public/researchareas/networkingiot/)
 - Type systems
 - Type error diagnosis
 - static analysis of functional languages
