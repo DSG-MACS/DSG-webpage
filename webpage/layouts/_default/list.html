@@ -25,7 +25,7 @@
     </div>
   </section>
   {{ if gt .Pages 0 }}
-    <section>
+    <!-- <section>
       {{ range (.Paginate (.Pages.GroupByDate "2006")).PageGroups }}
         {{ if $.Params.groupByYear | default ($.Site.Params.list.groupByYear | default true) }}
           <h2 class="mt-12 text-2xl font-bold first:mt-8 text-neutral-700 dark:text-neutral-300">
@@ -37,7 +37,7 @@
           {{ partial "article-link.html" . }}
         {{ end }}
       {{ end }}
-    </section>
+    </section> -->
     {{ partial "pagination.html" . }}
   {{ else }}
     <section class="mt-10 prose dark:prose-invert">
