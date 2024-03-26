@@ -10,12 +10,12 @@ cascade:
 - [Networking, IoT, and Their Applications](/~dsg/public/researchareas/networkingiot/)
 - [Parallel functional programming design and implementation](/~dsg/public/researchareas/parallelhaskell/)
 - [High-integrity software-intensive systems](/~dsg/public/researchareas/highintegritysoftwareintensivesystems/)
+- [Hardware implementation of high level languages](/~dsg/public/researchareas/hardwareimplementationofhighlevellanguages/)
 - Type systems
 - Type error diagnosis
 - static analysis of functional languages
 - Software-Defined Networking (SDN)
 - Cloud Computing
-- Hardware implementation of high level languages
 - Programmable hardware for signal/image processing
 - Interactive theorem proving
 - (Mechanised) metatheory of programming languages
