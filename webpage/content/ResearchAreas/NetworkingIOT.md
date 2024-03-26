@@ -5,7 +5,7 @@ tags: ["Software Development","IoT"]
 showDateUpdated: false
 ---
 
-## Research lead: Idris Ibrahim
+## Research lead: Dr Idris Ibrahim
 
 ![Logo](/~dsg/public/researchareas/InNetRG_Logo.jpg) 
 

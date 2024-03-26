@@ -8,6 +8,8 @@ cascade:
 
 - [Cyber Security](/~dsg/public/researchareas/cybersecurity/)
 - [Networking, IoT, and Their Applications](/~dsg/public/researchareas/networkingiot/)
+- [Parallel functional programming design and implementation](/~dsg/public/researchareas/parallelhaskell/)
+- [High-integrity software-intensive systems](/~dsg/public/researchareas/highintegritysoftwareintensivesystems/)
 - Type systems
 - Type error diagnosis
 - static analysis of functional languages
@@ -15,7 +17,6 @@ cascade:
 - Cloud Computing
 - Hardware implementation of high level languages
 - Programmable hardware for signal/image processing
-- Parallel functional programming design and implementation
 - Interactive theorem proving
 - (Mechanised) metatheory of programming languages
 - Metaprogramming
@@ -25,4 +26,3 @@ dependently-typed functional programming
 - Lambda calculus, type theory, mathematical logic
 - Automated reasoning
 - Formal methods
-- High-integrity software-intensive systems
