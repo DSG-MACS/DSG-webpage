@@ -5,6 +5,12 @@ tags: ["Software Development","IoT"]
 showDateUpdated: false
 ---
 
+## Research lead: Idris Ibrahim
+
+![Logo](/~dsg/public/researchareas/InNetRG_Logo.jpg) 
+
+The aim of the InnovateNet Research Group (InNet RG) is to advance networking, IoT, and their applications through innovative research projects. We focus on areas such as Software Defined Network-based MANETs (SDMANET), network monitoring tools and threat detection, generating realistic images from sketches using Generative Adversarial Networks (GANs), integrating advanced wireless technologies and IoT devices into Vehicular Ad Hoc Networks (VANETs), and machine learning-based customer segmentation. Our goal is to develop cutting-edge solutions that improve communication, security, efficiency, and targeting in various domains.
+
 ## Projects 
 ### 1. Software Defined Network-based MANETs (SDMANET)
 SDMANET, an integration of Software-Defined Networking (SDN) with Mobile Ad-Hoc Networks (MANETs), aims to tackle bandwidth, mobility, and power control constraints. Through the amalgamation of SDN nodes with OLSR/BATMAN routing and OpenFlow protocol, it augments flexibility and performance without displacing conventional approaches. Primarily advantageous for 5G and 6G networks, SDMANET holds the potential for enhanced throughput and reduced packet drop rates, representing a noteworthy progression in mobile network architecture.

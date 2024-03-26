@@ -4,6 +4,9 @@ draft: false
 tags: ["Software Development","Cybersecurity", "Serious Games", "Serious Gaming"]
 showDateUpdated: false
 ---
+
+## Research lead: Dr Manuel Maarek
+
 The Cyber Security group at Heriot-Watt University brings together cyber security research and teaching activities taking place in the School of Mathematical and Computer Sciences at Heriot-Watt University, both in our Edinburgh UK and Dubai UAE campuses. Heriot-Watt's Cyber security group is a partner in the UK Cyber Security & Privacy Seminar Series.
 
 

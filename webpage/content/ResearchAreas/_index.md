@@ -11,7 +11,6 @@ cascade:
 - Type systems
 - Type error diagnosis
 - static analysis of functional languages
-  - Mobile Adhoc network  (MANETs)
 - Software-Defined Networking (SDN)
 - Cloud Computing
 - Hardware implementation of high level languages

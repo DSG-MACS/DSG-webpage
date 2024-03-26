@@ -39,7 +39,7 @@ Academic DSG members (in alphabetic order):
 | Yun Wu                                                                 | Y.Wu@hw.ac.uk             |       |       | Academic
 -->
 
-{{< lead >}}
+<!-- {{< lead >}}
 Sample set of DSG members
 {{< /lead >}}
 
@@ -51,6 +51,6 @@ Sample set of DSG members
 | [Dr. Rob Stewart](http://www.macs.hw.ac.uk/~rs46)                      | | | Academic                                   |
 
 
-![DSG Logo](header_dsg.png) 
+![DSG Logo](header_dsg.png)  -->
 
 <!-- **Congo user?** To add your site to this list, [submit a pull request](https://github.com/jpanther/congo/blob/dev/exampleSite/content/users.md). -->
