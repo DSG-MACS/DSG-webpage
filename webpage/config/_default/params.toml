@@ -21,7 +21,7 @@ enableCodeCopy = true
 [footer]
   showCopyright = true
   showThemeAttribution = true
-  showAppearanceSwitcher = false
+  showAppearanceSwitcher = true
   showScrollToTop = true
 
 [homepage]
@@ -29,7 +29,7 @@ enableCodeCopy = true
   showRecent = false
 
 [article]
-  showDate = true
+  showDate = false
   showDateUpdated = false
   showAuthor = true
   showBreadcrumbs = false
@@ -40,8 +40,8 @@ enableCodeCopy = true
   showHeadingAnchors = true
   showPagination = true
   invertPagination = false
-  showReadingTime = true
-  showTableOfContents = false
+  showReadingTime = false
+  showTableOfContents = true
   showTaxonomies = false
   showWordCount = false
   showComments = false
@@ -50,14 +50,14 @@ enableCodeCopy = true
 [list]
   showBreadcrumbs = false
   showSummary = false
-  showTableOfContents = false
-  groupByYear = true
+  showTableOfContents = true
+  groupByYear = false
 
 [sitemap]
   excludedKinds = ["taxonomy", "term"]
 
 [taxonomy]
-  showTermCount = true
+  showTermCount = false
 
 [fathomAnalytics]
   # site = "ABC12345"

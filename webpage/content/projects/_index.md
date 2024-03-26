@@ -70,7 +70,6 @@ Guaranteed Resource Bounds</a></li>
 <li><a href="http://www.macs.hw.ac.uk/~dsg/wp/projects/pc.html">Parallelising Compilation of Standard ML through Prototype Instrumentation and Transformation</a></li>
 </ul>
     </div>
-
 <br>
 
 _**Sidenote:** Below are list of all pages which do not directly redirect to another selfhosted webpage._

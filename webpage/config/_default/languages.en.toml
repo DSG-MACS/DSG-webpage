@@ -2,14 +2,8 @@
 # languageName = "English"
 # displayName = "EN"
 # isoCode = "en"
-# weight = 1
-# rtl = false
-
-title = "DSG"
-## NB: Logo below is not picked up; does it need to be in another directory?
-# logo = "dsg_logo.png"
-# description = "My awesome website"
-# copyright = "Copy, _right?_ :thinking_face:"
+weight = 1
+rtl = false
 
 # dateFormat = "2 January 2006"
 

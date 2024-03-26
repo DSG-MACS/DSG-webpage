@@ -2,7 +2,7 @@
   <nav class="flex justify-between">
     {{/* Site logo/title */}}
     <div>
-      {{ if .Site.Params.Logo -}}
+      <!-- {{ if .Site.Params.Logo -}}
         {{ $logo := resources.Get .Site.Params.Logo }}
         {{ if $logo }}
           <a href="{{ "" | relLangURL }}">
@@ -22,7 +22,16 @@
           href="{{ "" | relLangURL }}"
           >{{ .Site.Title | markdownify | emojify }}</a
         >
-      {{- end }}
+      {{- end }} -->
+      <a href="/~dsg/public/">
+        <img
+          src="/~dsg/public/header_dsg_hu49e2b9a040f64e960410973def3696a3_15756_1320x0_resize_box_3.png"
+          width=""
+          height=""
+          class="max-w-[20rem] max-h-[20rem] object-scale-down object-left"
+          alt=""
+        />
+      </a>
       {{ partial "translations.html" . }}
     </div>
     {{/* Main menu */}}

@@ -9,5 +9,11 @@ enableRobotsTXT = true
 paginate = 10
 summaryLength = 0
 
+title = "DSG"
+## NB: Logo below is not picked up; does it need to be in another directory?
+logo = "~dsg/public/header_dsg_hu49e2b9a040f64e960410973def3696a3_15756_1320x0_resize_box_3.png"
+# description = "My awesome website"
+# copyright = "Copy, _right?_ :thinking_face:"
+
 [outputs]
   home = ["HTML", "RSS", "JSON"]
