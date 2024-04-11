@@ -6,21 +6,21 @@ cascade:
   showAuthor: false
 ---
 
-- [Lab for Ai and Verification (LAIV)](https://laiv.uk/) (Lab lead: Prof Ekaterina Komendantskaya)
-- [Cyber Security](/~dsg/public/researchareas/cybersecurity/) (Research lead: Dr Manuel Maarek)
-- [Networking, IoT, and Their Applications](/~dsg/public/researchareas/networkingiot/) (Research lead: Dr Idris Ibrahim)
-- [Parallel functional programming design and implementation](/~dsg/public/researchareas/parallelhaskell/): (Research lead: Dr Hans-Wolfgang) 
-- [High-integrity software-intensive systems](/~dsg/public/researchareas/highintegritysoftwareintensivesystems/)
-- [Hardware implementation of high level languages](/~dsg/public/researchareas/hardwareimplementationofhighlevellanguages/): (Research lead: Dr Rob Stewart)
-- Type systems (Research lead: Prof Jurriaan Hage)
-- Type error diagnosis (Research lead: Prof Jurriaan Hage)
-- static analysis of functional languages (Research lead: Prof Jurriaan Hage)
+- [Lab for Ai and Verification (LAIV)](https://laiv.uk/) - <strong> Prof Ekaterina Komendantskaya </strong>
+- [Cyber Security](/~dsg/public/researchareas/cybersecurity/) - <strong> Dr Manuel Maarek </strong>
+- [Networking, IoT, and Their Applications](/~dsg/public/researchareas/networkingiot/) - <strong> Dr Idris Ibrahim </strong>
+- [Parallel functional programming design and implementation](/~dsg/public/researchareas/parallelhaskell/) - <strong> Dr Hans-Wolfgang </strong>
+- [High-integrity software-intensive systems](/~dsg/public/researchareas/highintegritysoftwareintensivesystems/) - <strong> Prof Andrew Ireland </strong>
+- [Hardware implementation of high level languages](/~dsg/public/researchareas/hardwareimplementationofhighlevellanguages/) - <strong> Dr Rob Stewart </strong>
+- Type systems - <strong> Prof Jurriaan Hage </strong>
+- Type error diagnosis - <strong> Prof Jurriaan Hage </strong>
+- static analysis of functional languages - <strong> Prof Jurriaan Hage </strong>
 <!-- - Software-Defined Networking (SDN)
 - Cloud Computing -->
-- Programmable hardware for signal/image processing (Project lead: Dr Rob Stewart)
-- Interactive theorem proving (Research lead: Dr Kathrin Stark)
-- (Mechanised) metatheory of programming languages  (Research lead: Dr Kathrin Stark)
-- Metaprogramming  (Research lead: Dr Kathrin Stark)
+- Programmable hardware for signal/image processing - <strong> Dr Rob Stewart </strong>
+- Interactive theorem proving - <strong> Dr Kathrin Stark </strong>
+- (Mechanised) metatheory of programming languages  - <strong> Dr Kathrin Stark </strong>
+- Metaprogramming  - <strong> Dr Kathrin Stark </strong>
 - Functional programming with advanced type systems, especially
 dependently-typed functional programming
 - Interactive theorem proving, formalised mathematics
