@@ -9,7 +9,7 @@ cascade:
 - [Lab for Ai and Verification (LAIV)](https://laiv.uk/) - <strong> Prof Ekaterina Komendantskaya </strong>
 - [Cyber Security](/~dsg/public/researchareas/cybersecurity/) - <strong> Dr Manuel Maarek </strong>
 - [Networking, IoT, and Their Applications](/~dsg/public/researchareas/networkingiot/) - <strong> Dr Idris Ibrahim </strong>
-- [Parallel functional programming design and implementation](/~dsg/public/researchareas/parallelhaskell/) - <strong> Dr Hans-Wolfgang </strong>
+- [Parallel functional programming](/~dsg/public/researchareas/parallelhaskell/) - <strong> Dr Hans-Wolfgang </strong>
 - [High-integrity software-intensive systems](/~dsg/public/researchareas/highintegritysoftwareintensivesystems/) - <strong> Prof Andrew Ireland </strong>
 - [Hardware implementation of high level languages](/~dsg/public/researchareas/hardwareimplementationofhighlevellanguages/) - <strong> Dr Rob Stewart </strong>
 - Type systems - <strong> Prof Jurriaan Hage </strong>
