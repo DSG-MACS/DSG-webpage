@@ -18,7 +18,13 @@ reasoning. We are:
 
 - designing and evaluating new high-level coordination models in order to exploit emerging architectures, and new, in particular functional, models of computation
 - developing analyses of high-level parallel and distributed languages to better support coordination
-- encouraging adoption of new high-level coordination models via long term relationships with user communities, e.g. 123Invest, Codethink, Codeplay, Well-Typed
+- encouraging adoption of new high-level coordination models via long term relationships with user communities, e.g. 123-Invest, Codethink, Codeplay, Well-Typed
   <!-- e.g. Ericsson, EDF, GAP, Maplesoft, Kant, Mupad -->
+
+#### Project: Automated Hybrid Machine Learning Module for Investment Strategy Development
+
+This project **aims** to build a software module for the generation and testing of investment portfolios by innovative techniques.
+This is a joint project between Heriot-Watt University and 123-Invest GmbH, Germany.
+This project is funded by the British Academy and the Leverhulme trust.
 
 #### People: Dr Hans-Wolfgang, Dr Rob Stewart
