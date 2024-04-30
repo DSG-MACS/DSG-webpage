@@ -12,9 +12,9 @@ cascade:
 - [Cyber Security](/~dsg/public/researchareas/cybersecurity/) - <strong> [Dr Manuel Maarek](https://www.macs.hw.ac.uk/~mm894) </strong>
 - [Networking, IoT, and their Applications](/~dsg/public/researchareas/networkingiot/) - <strong> [Dr Idris S. Ibrahim](https://www.macs.hw.ac.uk/~isi3/) </strong>
 - [High-integrity software-intensive systems](/~dsg/public/researchareas/highintegritysoftwareintensivesystems/) - <strong> [Prof Andrew Ireland](https://www.macs.hw.ac.uk/~air/) </strong>
-- Type systems - <strong> [Prof Jurriaan Hage](https://researchportal.hw.ac.uk/en/persons/jurriaan-hage) </strong>
-- Type error diagnosis - <strong> [Prof Jurriaan Hage](https://researchportal.hw.ac.uk/en/persons/jurriaan-hage) </strong>
-- static analysis of functional languages - <strong> [Prof Jurriaan Hage](https://researchportal.hw.ac.uk/en/persons/jurriaan-hage) </strong>
+- Type systems - <strong> [Prof Jurriaan Hage](https://www.macs.hw.ac.uk/~jh2054/index.html) </strong>
+- Type error diagnosis - <strong> [Prof Jurriaan Hage](https://www.macs.hw.ac.uk/~jh2054/index.html) </strong>
+- static analysis of functional languages - <strong> [Prof Jurriaan Hage](https://www.macs.hw.ac.uk/~jh2054/index.html) </strong>
 <!-- - Software-Defined Networking (SDN) - Cloud Computing -->
 - Programmable hardware for signal/image processing - <strong> [Dr Rob Stewart](https://www.macs.hw.ac.uk/~rs46/) </strong>
 - Interactive theorem proving - <strong> [Dr Kathrin Stark](https://www.k-stark.de/) </strong>
