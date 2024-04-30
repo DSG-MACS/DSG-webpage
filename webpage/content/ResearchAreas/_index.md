@@ -8,7 +8,7 @@ cascade:
 
 - [Lab for Ai and Verification (LAIV)](https://laiv.uk/) - <strong> [Prof Ekaterina Komendantskaya](https://www.macs.hw.ac.uk/~ek19/) </strong>
 - [Parallel functional programming](/~dsg/public/researchareas/parallelhaskell/) - <strong> [Dr Hans-Wolfgang Loidl](https://www.macs.hw.ac.uk/~hwloidl) </strong>
-- [Hardware implementation of high level languages](/~dsg/public/researchareas/hardwareimplementationofhighlevellanguages/) - <strong> Dr Rob Stewart </strong>
+- [Hardware implementation of high level languages](/~dsg/public/researchareas/hardwareimplementationofhighlevellanguages/) - <strong> [Dr Rob Stewart](https://www.macs.hw.ac.uk/~rs46/) </strong>
 - [Cyber Security](/~dsg/public/researchareas/cybersecurity/) - <strong> [Dr Manuel Maarek](https://www.macs.hw.ac.uk/~mm894) </strong>
 - [Networking, IoT, and their Applications](/~dsg/public/researchareas/networkingiot/) - <strong> [Dr Idris S. Ibrahim](https://www.macs.hw.ac.uk/~isi3/) </strong>
 - [High-integrity software-intensive systems](/~dsg/public/researchareas/highintegritysoftwareintensivesystems/) - <strong> [Prof Andrew Ireland](https://www.macs.hw.ac.uk/~air/) </strong>
