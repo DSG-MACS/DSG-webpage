@@ -23,7 +23,7 @@ cascade:
 - Metaprogramming  - <strong> Dr Kathrin Stark </strong>
 - Functional programming with advanced type systems, especially
 dependently-typed functional programming
-- Interactive theorem proving, formalised mathematics
+- Interactive theorem proving, formalised mathematics - <strong> Dr James McKinna </strong>
 - Lambda calculus, type theory, mathematical logic
 - Automated reasoning
 - Formal methods
