@@ -97,22 +97,27 @@ JH:
 - type systems
 - type error diagnosis
 - static analysis of functional languages
+
 II:
 - Mobile Adhoc network  (MANETs)
 - Software-Defined Networking (SDN)
 - Cloud Computing
+
 RJS:
 - Hardware implementation of high level languages
 - Programmable hardware for signal/image processing
 - Parallel functional programming design and implementation
+
 KS:
 - Interactive theorem proving
 - (Mechanised) metatheory of programming languages
 - Metaprogramming
+
 JM:
 - functional programming with advanced type systems, especially dependently-typed functional programming
 - interactive theorem proving, formalised mathematics
 - lambda calculus, type theory, mathematical logic 
+
 AIR:
 - automated reasoning
 - formal methods

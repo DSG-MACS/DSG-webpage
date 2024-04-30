@@ -19,20 +19,20 @@ Academic DSG members (in alphabetic order):
 | ---------------------------------------------------------------------- | -                         | -     | ----- | ----------------------------------------- |
 | Swaraj Dash                                                            | Swaraj.Dash@hw.ac.uk      |       |       | Academic                                  |
 | Marko Doko                                                             | M.Doko@hw.ac.uk           |       |       | Academic                                  |
-| Jamie Gabbay                                                           | M.Gabbay@hw.ac.uk         |       |       | Academic                                  |
+| [Jamie Gabbay](https://www.macs.hw.ac.uk/~gabbay/)                                                           | M.Gabbay@hw.ac.uk         |       |       | Academic                                  |
 | Lilia Georgieva                                                        | L.Georgieva@hw.ac.uk      |       |       | Academic                                  |
-| Jurriaan Hage                                                          | J.Hage@hw.ac.uk           |       |       | Academic                                  |
-| Idris Skloul Ibrahim                                                   | I.S.Ibrahim@hw.ac.uk      |       |       | Academic                                  |
-| Andrew Ireland                                                         | A.Ireland@hw.ac.uk        |       |       | Academic                                  |
-| Ekaterina Komendantskaya                                               | E.Komendantskaya@hw.ac.uk |       |       | Academic                                  |
+| [Jurriaan Hage](https://www.macs.hw.ac.uk/~jh2054/index.html)                                                          | J.Hage@hw.ac.uk           |       |       | Academic                                  |
+| [Idris Skloul Ibrahim](https://www.macs.hw.ac.uk/~isi3/)                                                   | I.S.Ibrahim@hw.ac.uk      |       |       | Academic                                  |
+| [Andrew Ireland](https://www.macs.hw.ac.uk/~air/)                                                         | A.Ireland@hw.ac.uk        |       |       | Academic                                  |
+| [Ekaterina Komendantskaya](https://www.macs.hw.ac.uk/~ek19/)                                               | E.Komendantskaya@hw.ac.uk |       |       | Academic                                  |
 | [Hans-Wolfgang Loidl](http://www.macs.hw.ac.uk/~hwloidl)               | H.W.Loidl@hw.ac.uk        |   |  <!-- <img style="float: right; height:5rem" src="HLoidl_200x200.png"> --> | Academic                                  |
-| Manuel Maarek                                                         | M.Maarek@hw.ac.uk         |       |       | Academic        
-| James McKinna                                                          | J.McKinna@hw.ac.uk        |       |       | Academic                                  |
+| [Manuel Maarek](https://www.macs.hw.ac.uk/~mm894)                                                         | M.Maarek@hw.ac.uk         |       |       | Academic        
+| [James McKinna](https://researchportal.hw.ac.uk/en/persons/james-mckinna)                                                          | J.McKinna@hw.ac.uk        |       |       | Academic                                  |
 | Muhammad Najib                                                         | M.Najib@hw.ac.uk          |       |       | Academic                                  |
 | Adam Sampson                                                           | A.Sampson@hw.ac.uk        |       |       | Academic                                  |
 | Filip Sieczkowski                                                      | F.Sieczkowski@hw.ac.uk    |       |       | Academic                                  |
-| Kathrin Stark                                                          | K.Stark@hw.ac.uk          |       |       | Academic                                  |
-| Rob Stewart                                                            | R.Stewart@hw.ac.uk        |       |       | Academic                                  |
+| [Kathrin Stark](https://www.k-stark.de/)                                                          | K.Stark@hw.ac.uk          |       |       | Academic                                  |
+| [Rob Stewart](https://www.macs.hw.ac.uk/~rs46/)                                                            | R.Stewart@hw.ac.uk        |       |       | Academic                                  |
 
 
 <!-- FORMER members:
