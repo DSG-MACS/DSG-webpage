@@ -1,6 +1,6 @@
 
 ---
-title: "Publicatons"
+title: "Publications"
 draft: false
 description: ""
 slug: "Publications"
@@ -11,25 +11,10 @@ showReadingTime: false
 showEdit: false
 ---
 
-{{< lead >}}
-DSG publications
-{{< /lead >}}
+<script>
+    window.location.href = "http://www.macs.hw.ac.uk/~dsg/bibtex-static/";
+</script>
 
-<div id="bib-publication-list">
-    <table></table>
-</div>
-<pre id="bibtex">
-@inproceedings{Aubert2022FSCD,
-    editor = {Felty, Amy P.},
-    doi = {10.4230/LIPIcs.FSCD.2022.26},
-    pages = {26:1--26:23},
-    volume = {228},
-    series = {LIPIcs},
-    publisher = {Schloss Dagstuhl - Leibniz-Zentrum f{\"{u}}r Informatik},
-    booktitle = {FSCD 2022},
-    year = {2022},
-    author = {Aubert, Clément and Rubiano, Thomas and Rusch, Neea and Seiller, Thomas},
-    title = {mwp-Analysis Improvement and Implementation: Realizing Implicit Computational Complexity},
-}
-</pre>
+<!-- <iframe width="100%" height="150" name="iframe" src="http://www.macs.hw.ac.uk/~dsg/bibtex-static/">  -->
 
+<!-- <iframe src="http://www.macs.hw.ac.uk/~dsg/bibtex-static/" style="width: 100%; height: 100%"></iframe> -->
