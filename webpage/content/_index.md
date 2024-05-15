@@ -7,6 +7,8 @@ description: "Dependable Systems Group at Heriot-Watt"
 Dependable Systems Group at Heriot-Watt
 {{< /lead >}} -->
 
+### [DSG Poster](/~dsg/public/dsg-poster.pdf)
+
 The Dependable Systems Group (DSG) is a diverse collection of
 colleagues working in a range of areas covering foundations, 
 systems and applications of both.
@@ -40,8 +42,6 @@ We have strong links to other Scottish universities and these are
 listed in the section on [Collaborators](collaborations).
 
 The seminars of the DSG group are merged with those of the [LAIV group](http://laiv.uk/) and a [seminar schedule is available here](https://laiv.uk/laiv-seminars/).
-
-### [DSG Poster](/~dsg/public/dsg-poster.pdf)
 
 
  
