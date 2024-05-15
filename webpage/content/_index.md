@@ -41,6 +41,8 @@ listed in the section on [Collaborators](collaborations).
 
 The seminars of the DSG group are merged with those of the [LAIV group](http://laiv.uk/) and a [seminar schedule is available here](https://laiv.uk/laiv-seminars/).
 
+### [DSG Poster](/~dsg/public/dsg-poster.pdf)
+
 
  
 <!-- ![DSG Logo](header_dsg.png)  -->
