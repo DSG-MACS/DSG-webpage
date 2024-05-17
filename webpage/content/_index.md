@@ -7,8 +7,6 @@ description: "Dependable Systems Group at Heriot-Watt"
 Dependable Systems Group at Heriot-Watt
 {{< /lead >}} -->
 
-### [DSG Poster](/~dsg/public/dsg-poster.pdf)
-
 The Dependable Systems Group (DSG) is a diverse collection of
 colleagues working in a range of areas covering foundations, 
 systems and applications of both.
@@ -28,8 +26,7 @@ Systems research is considered as spanning the following three layers:
    artificial intelligence; safety critical system; secure systems; fault tolerant systems;
    performance optimisation; multi process/processor systems; hybrid/embedded systems; predictable systems.  
 
-### [More information on the current research areas](/~dsg/public/researchareas)
-
+### [More information on the current research areas](/~dsg/public/researchareas) and overview [DSG Poster](/~dsg/public/dsg-poster.pdf)
 
 We are part of the [Scottish Informatics and Computer Science Alliance
 (SICSA)](https://www.sicsa.ac.uk/), which pools together the top computing departments in
