@@ -15,5 +15,5 @@ showEdit: false
     window.location.href = "http://www.macs.hw.ac.uk/~dsg/bibtex-static/";
 </script> -->
 <iframe
-style="height: 70vh; width: 140vh; background: white" src="https://www.macs.hw.ac.uk/~dsg/bibtex-static/"> 
+style="height: 70vh; width: 160vh; background: white" src="https://www.macs.hw.ac.uk/~dsg/bibtex-static/"> 
 </iframe>
