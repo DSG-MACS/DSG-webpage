@@ -17,7 +17,7 @@ showEdit: false
 style="height: 100vh; width: 130vh; background: white; overflow: hidden;" allowtransparency="true" src="https://www.macs.hw.ac.uk/~dsg/bibtex-static/"> 
 </iframe> -->
 
-<embed id="embeddedPage" data="/~dsg/public/test.html" style="display: inline-block;
+<iframe id="embeddedPage" src="/~dsg/public/test.html" style="display: inline-block;
     width: 100vh; height: 100vh; background: white; border: none; " type="text/html"></embed>
 
   <!-- <script>
