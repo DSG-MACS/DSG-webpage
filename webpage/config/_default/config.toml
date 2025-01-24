@@ -17,3 +17,6 @@ logo = "~dsg/public/header_dsg_hu49e2b9a040f64e960410973def3696a3_15756_1320x0_r
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
+
+[markup.goldmark.renderer]
+unsafe = true
