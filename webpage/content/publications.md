@@ -17,8 +17,8 @@ showEdit: false
 style="height: 100vh; width: 130vh; background: white; overflow: hidden;" allowtransparency="true" src="https://www.macs.hw.ac.uk/~dsg/bibtex-static/"> 
 </iframe> -->
 
-<object id="embeddedPage" data="/~dsg/public/test.html" style="display: inline-block;
-    width: 100vh; height: 100vh; background: white; border: none; " type="text/html"></object>
+<embed id="embeddedPage" data="/~dsg/public/test.html" style="display: inline-block;
+    width: 100vh; height: 100vh; background: white; border: none; " type="text/html"></embed>
 
   <!-- <script>
     const objectTag = document.getElementById("embeddedPage");
