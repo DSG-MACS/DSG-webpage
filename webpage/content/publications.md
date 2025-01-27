@@ -23,7 +23,7 @@ showEdit: false
 
 <script type="text/javascript">
     $(document).ready(function() {
-    bibtexify("#bibtex", "bib-publication-list", {'datatable':{'iDisplayLength': 100}});
+    bibtexify("#bibtex", "bib-publication-list", {'datatable':{'iDisplayLength': 100},'visualization':false});
     });
 </script>
 
