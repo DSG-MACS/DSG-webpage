@@ -4,31 +4,31 @@
 
 General discussion items in the DSG group
 
-## Webpage setup instruction 
-1. ### Clone the current git repo 
+## Webpage setup instruction
+1. ### Clone the current git repo
 ```
 git clone git@gitlab-student.macs.hw.ac.uk:as251/dsg-webpages.git
 ```
 
-2. ### Enter the webpage directory 
+2. ### Enter the webpage directory
 ```
 cd webpage/
 ```
 
-3. ### To run the webpage make sure the following dependencies are installed.   
+3. ### To run the webpage make sure the following dependencies are installed.
    - [hugo](https://gohugo.io/installation/)
    ```
-   // ensure the hugo command line is assesible 
+   // ensure the hugo command line is assesible
    hugo -h
    ```
-4. ### Start the server in debug mode 
+4. ### Start the server in debug mode
    ```
    hugo serve
    ```
 
 ## Windows installation
 https://www.youtube.com/watch?v=G7umPCU-8xc
-## Mac installation 
+## Mac installation
 https://www.youtube.com/watch?v=WvhCGlLcrF8
 ## Linux installation
 ```
@@ -38,39 +38,59 @@ sudo pacman -S hugo
 sudo apt install hugo
 // Fedora
 sudo dnf install hugo
-// OpenSuse 
+// OpenSuse
 sudo zypper install hugo
 // Solus
 sudo eopkg install hugo
 ```
 
-## Docker 
+## Docker
 ```
 docker pull klakegg/hugo
 ```
 
-## Contribute content guidelines 
-1. ## enter the appropriate directory 
+## Deployment guidelines
+The following refers to the steps needed for
+deployment.
+
+### Steps
+```
+cd automated-pull/
+
+sh MACSDSGserver.sh
+```
+#### MACSDSGserver script
+How It Works:
+- Pulls updates from the main branch of a Git repository (gitlab-fix).
+- Builds the website using Hugo.
+- Syncs the built files to the deployment directory (/home/dsg/www/public) using rsync.
+- Updates file permissions in the deployment directory to ensure proper accessibility.
+- Pushes changes back to the main branch of both github-test and gitlab-fix repositories.
+- Repeats the process indefinitely with a 5-second interval between each cycle.
+
+
+## Contribute content guidelines
+1. ## enter the appropriate directory
 ```
 // create a new branch from the current main branch
-// this is because the main branch is in a protected 
+// this is because the main branch is in a protected
 // view
 git checkout -b <branch name>
 
 // enter the apprpirate directory
 cd webpage/content
 ```
-2. ## The entire content section is markdown files 
-- To add a new project 
+2. ## The entire content section is markdown files
+- To add a new project
  ```
  // current path (webpage/content/projects)
  cd projects/
  ```
-- Create a markdown file ```.md file``` with the project name 
+- Create a markdown file ```.md file``` with the project name
  ```
  touch <project name>.md
  ```
-- Edit the following file created with the following boiler plate 
+- Edit the following file created with the following boiler plate
 ```
 ---
 title: <title>
@@ -168,7 +188,7 @@ But do not be deceived, for mastering Haskell is no easy feat. It requires the w
 
 So, if you dare to enter the realm of Haskell, be prepared to be enchanted by its elegance and haunted by its challenges. Embrace the functional magic, and may the Haskell wizards guide you on your quest for enlightenment!
 ```
-Link to how this looks: 
+Link to how this looks:
 
 <!-- ## Getting started
 
