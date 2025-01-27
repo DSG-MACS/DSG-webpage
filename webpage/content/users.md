@@ -27,6 +27,7 @@ Academic DSG members (in alphabetic order):
 | [Ekaterina Komendantskaya](https://www.macs.hw.ac.uk/~ek19/)                                               | E.Komendantskaya@hw.ac.uk |       |       | Academic                                  |
 | [Hans-Wolfgang Loidl](http://www.macs.hw.ac.uk/~hwloidl)               | H.W.Loidl@hw.ac.uk        |   |  <!-- <img style="float: right; height:5rem" src="HLoidl_200x200.png"> --> | Academic                                  |
 | [Manuel Maarek](https://www.macs.hw.ac.uk/~mm894)                                                         | M.Maarek@hw.ac.uk         |       |       | Academic        
+| [Radu Mardare](https://www.macs.hw.ac.uk/~rm4023/)                                                         | R.Mardare@hw.ac.uk         |       |       | Academic        
 | [James McKinna](https://researchportal.hw.ac.uk/en/persons/james-mckinna)                                                          | J.McKinna@hw.ac.uk        |       |       | Academic                                  |
 | Muhammad Najib                                                         | M.Najib@hw.ac.uk          |       |       | Academic                                  |
 | Adam Sampson                                                           | A.Sampson@hw.ac.uk        |       |       | Academic                                  |
