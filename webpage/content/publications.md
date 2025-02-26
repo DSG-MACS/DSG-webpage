@@ -27,8 +27,16 @@ showEdit: false
     });
 </script>
 
-<div id="bib-publication-list">
-    <table></table>
+<style>
+  @media screen and (min-width: 1400px) {
+    .publi {
+      width: 150%;
+    }
+}
+</style>
+
+<div id="bib-publication-list" class="publi">
+    <table class="publi"></table>
 </div>
 
 <pre id="bibtex">
